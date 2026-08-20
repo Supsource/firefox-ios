@@ -4294,6 +4294,13 @@
 		432CE1972DDB495C000CCE93 /* ml */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ml; path = ml.lproj/Shopping.strings; sourceTree = "<group>"; };
 		432CF09A29D1B0300046294C /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/BiometricAuthentication.strings; sourceTree = "<group>"; };
 		432CF09B29D1B0300046294C /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/ErrorState.strings; sourceTree = "<group>"; };
+		432D2EDB30371CB50002FBC3 /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/LiveActivity.strings"; sourceTree = "<group>"; };
+		432D2EDC30371CB50002FBC3 /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/RelayMask.strings"; sourceTree = "<group>"; };
+		432D2EDD30371CB50002FBC3 /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/SearchZero.strings"; sourceTree = "<group>"; };
+		432D2EDE30371CB50002FBC3 /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/Summarize.strings"; sourceTree = "<group>"; };
+		432D2EDF30371CB50002FBC3 /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/Summarizer.strings"; sourceTree = "<group>"; };
+		432D2EE030371CB50002FBC3 /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/TermsOfUse.strings"; sourceTree = "<group>"; };
+		432D2EE130371CB50002FBC3 /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/Translations.strings"; sourceTree = "<group>"; };
 		432D457C2EA10C0500A612DA /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Translations.strings; sourceTree = "<group>"; };
 		432D76252CE2244D005521D8 /* sl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sl; path = sl.lproj/LibraryPanel.strings; sourceTree = "<group>"; };
 		432E13AD2DDB493900EBA55F /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Shopping.strings; sourceTree = "<group>"; };
@@ -4495,6 +4502,94 @@
 		433801E62CA186030025B82A /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/PasswordGenerator.strings; sourceTree = "<group>"; };
 		433828E02E4DFBE300FC91D6 /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/Summarize.strings"; sourceTree = "<group>"; };
 		433828E12E4DFBE300FC91D6 /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/TermsOfUse.strings"; sourceTree = "<group>"; };
+		43383A5430371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		43383A5630371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/3DTouchActions.strings; sourceTree = "<group>"; };
+		43383A5730371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/AuthenticationManager.strings; sourceTree = "<group>"; };
+		43383A5830371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ClearHistoryConfirm.strings; sourceTree = "<group>"; };
+		43383A5930371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ClearPrivateData.strings; sourceTree = "<group>"; };
+		43383A5A30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ClearPrivateDataConfirm.strings; sourceTree = "<group>"; };
+		43383A5B30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = "sr.lproj/Default Browser.strings"; sourceTree = "<group>"; };
+		43383A5C30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ErrorPages.strings; sourceTree = "<group>"; };
+		43383A5D30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/FindInPage.strings; sourceTree = "<group>"; };
+		43383A5E30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/HistoryPanel.strings; sourceTree = "<group>"; };
+		43383A5F30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Intro.strings; sourceTree = "<group>"; };
+		43383A6030371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		43383A6130371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/LoginManager.strings; sourceTree = "<group>"; };
+		43383A6230371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Menu.strings; sourceTree = "<group>"; };
+		43383A6330371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/PrivateBrowsing.strings; sourceTree = "<group>"; };
+		43383A6430371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Search.strings; sourceTree = "<group>"; };
+		43383A6530371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Shared.strings; sourceTree = "<group>"; };
+		43383A6630371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Storage.strings; sourceTree = "<group>"; };
+		43383A6730371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Today.strings; sourceTree = "<group>"; };
+		43383A6830371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ActivityStream.strings; sourceTree = "<group>"; };
+		43383A6930371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/AddressToolbar.strings; sourceTree = "<group>"; };
+		43383A6A30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Alert.strings; sourceTree = "<group>"; };
+		43383A6B30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Alerts.strings; sourceTree = "<group>"; };
+		43383A6C30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/AppIconSelection.strings; sourceTree = "<group>"; };
+		43383A6D30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/BiometricAuthentication.strings; sourceTree = "<group>"; };
+		43383A6E30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/BookmarkPanel.strings; sourceTree = "<group>"; };
+		43383A6F30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/BookmarkPanelDeleteConfirm.strings; sourceTree = "<group>"; };
+		43383A7030371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Bookmarks.strings; sourceTree = "<group>"; };
+		43383A7130371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/BottomSheet.strings; sourceTree = "<group>"; };
+		43383A7230371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ContextualHints.strings; sourceTree = "<group>"; };
+		43383A7330371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/CredentialProvider.strings; sourceTree = "<group>"; };
+		43383A7430371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Credentials.strings; sourceTree = "<group>"; };
+		43383A7530371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/CustomizeFirefoxHome.strings; sourceTree = "<group>"; };
+		43383A7630371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/DisplayCard.strings; sourceTree = "<group>"; };
+		43383A7730371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = "sr.lproj/Edit Card.strings"; sourceTree = "<group>"; };
+		43383A7830371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/EditAddress.strings; sourceTree = "<group>"; };
+		43383A7930371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/EditCard.strings; sourceTree = "<group>"; };
+		43383A7A30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/EngagementNotification.strings; sourceTree = "<group>"; };
+		43383A7B30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/EnhancedTrackingProtection.strings; sourceTree = "<group>"; };
+		43383A7C30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ErrorState.strings; sourceTree = "<group>"; };
+		43383A7D30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ExternalLink.strings; sourceTree = "<group>"; };
+		43383A7E30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/FirefoxHomepage.strings; sourceTree = "<group>"; };
+		43383A7F30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/FirefoxLogins.strings; sourceTree = "<group>"; };
+		43383A8030371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/FirefoxSync.strings; sourceTree = "<group>"; };
+		43383A8130371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Footer.strings; sourceTree = "<group>"; };
+		43383A8230371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/FxANotification.strings; sourceTree = "<group>"; };
+		43383A8330371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/JumpBackIn.strings; sourceTree = "<group>"; };
+		43383A8430371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/KeyboardAccessory.strings; sourceTree = "<group>"; };
+		43383A8530371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/LibraryPanel.strings; sourceTree = "<group>"; };
+		43383A8630371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/LiveActivity.strings; sourceTree = "<group>"; };
+		43383A8730371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/LoginsHelper.strings; sourceTree = "<group>"; };
+		43383A8830371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		43383A8930371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Microsurvey.strings; sourceTree = "<group>"; };
+		43383A8A30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/NativeErrorPage.strings; sourceTree = "<group>"; };
+		43383A8B30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Notification.strings; sourceTree = "<group>"; };
+		43383A8C30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Onboarding.strings; sourceTree = "<group>"; };
+		43383A8D30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/PasswordAutofill.strings; sourceTree = "<group>"; };
+		43383A8E30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/PasswordGenerator.strings; sourceTree = "<group>"; };
+		43383A8F30371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/QRCode.strings; sourceTree = "<group>"; };
+		43383A9030371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/RelayMask.strings; sourceTree = "<group>"; };
+		43383A9130371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/RememberCard.strings; sourceTree = "<group>"; };
+		43383A9230371F0100881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ResearchSurface.strings; sourceTree = "<group>"; };
+		43383A9330371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ScanQRCode.strings; sourceTree = "<group>"; };
+		43383A9430371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/SearchEngineSelection.strings; sourceTree = "<group>"; };
+		43383A9530371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/SearchHeaderTitle.strings; sourceTree = "<group>"; };
+		43383A9630371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/SearchZero.strings; sourceTree = "<group>"; };
+		43383A9730371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/SelectCreditCard.strings; sourceTree = "<group>"; };
+		43383A9830371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Settings.strings; sourceTree = "<group>"; };
+		43383A9930371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Share.strings; sourceTree = "<group>"; };
+		43383A9A30371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/SnackBar.strings; sourceTree = "<group>"; };
+		43383A9B30371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/SocialMediaApp.strings; sourceTree = "<group>"; };
+		43383A9C30371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/SocialShare.strings; sourceTree = "<group>"; };
+		43383A9D30371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/SuggestedSites.strings; sourceTree = "<group>"; };
+		43383A9E30371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Summarize.strings; sourceTree = "<group>"; };
+		43383A9F30371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Summarizer.strings; sourceTree = "<group>"; };
+		43383AA030371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/TabLocation.strings; sourceTree = "<group>"; };
+		43383AA130371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/TabsTray.strings; sourceTree = "<group>"; };
+		43383AA230371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/TabToolbar.strings; sourceTree = "<group>"; };
+		43383AA330371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/TermsOfUse.strings; sourceTree = "<group>"; };
+		43383AA430371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Toolbar.strings; sourceTree = "<group>"; };
+		43383AA530371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ToolbarLocation.strings; sourceTree = "<group>"; };
+		43383AA630371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Translations.strings; sourceTree = "<group>"; };
+		43383AA730371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/UpdateCard.strings; sourceTree = "<group>"; };
+		43383AA830371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Upgrade.strings; sourceTree = "<group>"; };
+		43383AA930371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/WebView.strings; sourceTree = "<group>"; };
+		43383AAA30371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/ZoomPageBar.strings; sourceTree = "<group>"; };
+		43383AAB30371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/WidgetIntents.strings; sourceTree = "<group>"; };
+		43383AAC30371F0200881F38 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		43383DE92C57AF94001BCD0E /* co */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = co; path = co.lproj/EditAddress.strings; sourceTree = "<group>"; };
 		43383DEA2C57AF94001BCD0E /* co */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = co; path = co.lproj/ScanQRCode.strings; sourceTree = "<group>"; };
 		43383DEB2C57AF94001BCD0E /* co */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = co; path = co.lproj/Toolbar.strings; sourceTree = "<group>"; };
@@ -4597,6 +4692,21 @@
 		433D74F72D75C5FE003D5A32 /* tzm */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tzm; path = tzm.lproj/WidgetIntents.strings; sourceTree = "<group>"; };
 		433D98BF2DDB4993006698F7 /* nn */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nn; path = nn.lproj/Shopping.strings; sourceTree = "<group>"; };
 		433E0DEC26FCE37C00B78CC5 /* ne-NP */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "ne-NP"; path = "ne-NP.lproj/Default Browser.strings"; sourceTree = "<group>"; };
+		433E10E930371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/Alerts.strings; sourceTree = "<group>"; };
+		433E10EA30371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/BookmarkPanelDeleteConfirm.strings; sourceTree = "<group>"; };
+		433E10EB30371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/EditAddress.strings; sourceTree = "<group>"; };
+		433E10EC30371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/EditCard.strings; sourceTree = "<group>"; };
+		433E10ED30371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/EnhancedTrackingProtection.strings; sourceTree = "<group>"; };
+		433E10EE30371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/ErrorState.strings; sourceTree = "<group>"; };
+		433E10EF30371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/JumpBackIn.strings; sourceTree = "<group>"; };
+		433E10F030371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		433E10F130371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/NativeErrorPage.strings; sourceTree = "<group>"; };
+		433E10F230371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/Onboarding.strings; sourceTree = "<group>"; };
+		433E10F330371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/ScanQRCode.strings; sourceTree = "<group>"; };
+		433E10F430371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/SearchEngineSelection.strings; sourceTree = "<group>"; };
+		433E10F530371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/Settings.strings; sourceTree = "<group>"; };
+		433E10F630371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/TabLocation.strings; sourceTree = "<group>"; };
+		433E10F730371DE90044583A /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/Translations.strings; sourceTree = "<group>"; };
 		433E11402A124A2C00B4C650 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/FirefoxSync.strings; sourceTree = "<group>"; };
 		433E11412A124A2C00B4C650 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Upgrade.strings; sourceTree = "<group>"; };
 		433E7679293E0B6A0092C8F6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Alerts.strings; sourceTree = "<group>"; };
@@ -4738,6 +4848,73 @@
 		4348AA992A2DFBB300D6D5AC /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Footer.strings; sourceTree = "<group>"; };
 		4348AA9A2A2DFBB300D6D5AC /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/RememberCard.strings; sourceTree = "<group>"; };
 		4348AA9B2A2DFBB300D6D5AC /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/UpdateCard.strings; sourceTree = "<group>"; };
+		4348B61830371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Today.strings; sourceTree = "<group>"; };
+		4348B61930371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/ActivityStream.strings; sourceTree = "<group>"; };
+		4348B61A30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/AddressToolbar.strings; sourceTree = "<group>"; };
+		4348B61B30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Alert.strings; sourceTree = "<group>"; };
+		4348B61C30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Alerts.strings; sourceTree = "<group>"; };
+		4348B61D30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/AppIconSelection.strings; sourceTree = "<group>"; };
+		4348B61E30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/BiometricAuthentication.strings; sourceTree = "<group>"; };
+		4348B61F30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Bookmarks.strings; sourceTree = "<group>"; };
+		4348B62030371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/BottomSheet.strings; sourceTree = "<group>"; };
+		4348B62130371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/ContextualHints.strings; sourceTree = "<group>"; };
+		4348B62230371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/CredentialProvider.strings; sourceTree = "<group>"; };
+		4348B62330371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Credentials.strings; sourceTree = "<group>"; };
+		4348B62430371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/CustomizeFirefoxHome.strings; sourceTree = "<group>"; };
+		4348B62530371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/DisplayCard.strings; sourceTree = "<group>"; };
+		4348B62630371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = "km.lproj/Edit Card.strings"; sourceTree = "<group>"; };
+		4348B62730371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/EditAddress.strings; sourceTree = "<group>"; };
+		4348B62830371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/EditCard.strings; sourceTree = "<group>"; };
+		4348B62930371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/EngagementNotification.strings; sourceTree = "<group>"; };
+		4348B62A30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/EnhancedTrackingProtection.strings; sourceTree = "<group>"; };
+		4348B62B30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/ErrorState.strings; sourceTree = "<group>"; };
+		4348B62C30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/ExternalLink.strings; sourceTree = "<group>"; };
+		4348B62D30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/FirefoxHomepage.strings; sourceTree = "<group>"; };
+		4348B62E30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/FirefoxLogins.strings; sourceTree = "<group>"; };
+		4348B62F30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/FirefoxSync.strings; sourceTree = "<group>"; };
+		4348B63030371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Footer.strings; sourceTree = "<group>"; };
+		4348B63130371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/FxANotification.strings; sourceTree = "<group>"; };
+		4348B63230371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/JumpBackIn.strings; sourceTree = "<group>"; };
+		4348B63330371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/KeyboardAccessory.strings; sourceTree = "<group>"; };
+		4348B63430371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/LibraryPanel.strings; sourceTree = "<group>"; };
+		4348B63530371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/LiveActivity.strings; sourceTree = "<group>"; };
+		4348B63630371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/LoginsHelper.strings; sourceTree = "<group>"; };
+		4348B63730371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		4348B63830371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Microsurvey.strings; sourceTree = "<group>"; };
+		4348B63930371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/NativeErrorPage.strings; sourceTree = "<group>"; };
+		4348B63A30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Notification.strings; sourceTree = "<group>"; };
+		4348B63B30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Onboarding.strings; sourceTree = "<group>"; };
+		4348B63C30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/PasswordAutofill.strings; sourceTree = "<group>"; };
+		4348B63D30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/PasswordGenerator.strings; sourceTree = "<group>"; };
+		4348B63E30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/QRCode.strings; sourceTree = "<group>"; };
+		4348B63F30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/RelayMask.strings; sourceTree = "<group>"; };
+		4348B64030371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/RememberCard.strings; sourceTree = "<group>"; };
+		4348B64130371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/ResearchSurface.strings; sourceTree = "<group>"; };
+		4348B64230371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/ScanQRCode.strings; sourceTree = "<group>"; };
+		4348B64330371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/SearchEngineSelection.strings; sourceTree = "<group>"; };
+		4348B64430371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/SearchHeaderTitle.strings; sourceTree = "<group>"; };
+		4348B64530371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/SearchZero.strings; sourceTree = "<group>"; };
+		4348B64630371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/SelectCreditCard.strings; sourceTree = "<group>"; };
+		4348B64730371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Settings.strings; sourceTree = "<group>"; };
+		4348B64830371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Share.strings; sourceTree = "<group>"; };
+		4348B64930371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/SnackBar.strings; sourceTree = "<group>"; };
+		4348B64A30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/SocialMediaApp.strings; sourceTree = "<group>"; };
+		4348B64B30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/SocialShare.strings; sourceTree = "<group>"; };
+		4348B64C30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/SuggestedSites.strings; sourceTree = "<group>"; };
+		4348B64D30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Summarize.strings; sourceTree = "<group>"; };
+		4348B64E30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Summarizer.strings; sourceTree = "<group>"; };
+		4348B64F30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/TabLocation.strings; sourceTree = "<group>"; };
+		4348B65030371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/TabsTray.strings; sourceTree = "<group>"; };
+		4348B65130371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/TabToolbar.strings; sourceTree = "<group>"; };
+		4348B65230371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/TermsOfUse.strings; sourceTree = "<group>"; };
+		4348B65330371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Toolbar.strings; sourceTree = "<group>"; };
+		4348B65430371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/ToolbarLocation.strings; sourceTree = "<group>"; };
+		4348B65530371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Translations.strings; sourceTree = "<group>"; };
+		4348B65630371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/UpdateCard.strings; sourceTree = "<group>"; };
+		4348B65730371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Upgrade.strings; sourceTree = "<group>"; };
+		4348B65830371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/WebView.strings; sourceTree = "<group>"; };
+		4348B65930371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/ZoomPageBar.strings; sourceTree = "<group>"; };
+		4348B65A30371DAA007F625D /* km */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = km; path = km.lproj/Localizable.strings; sourceTree = "<group>"; };
 		4348FD222E4DFBAE0022E196 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Summarize.strings; sourceTree = "<group>"; };
 		4348FD232E4DFBAE0022E196 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/TermsOfUse.strings; sourceTree = "<group>"; };
 		434905B12B554D1800D750D7 /* zh-TW */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-TW"; path = "zh-TW.lproj/TabToolbar.strings"; sourceTree = "<group>"; };
@@ -5408,6 +5585,15 @@
 		4368ED3B28B39C1300A50B64 /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/ToolbarLocation.strings"; sourceTree = "<group>"; };
 		4368EE5B292B95C0005A0673 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SearchHeaderTitle.strings; sourceTree = "<group>"; };
 		43691E8E2E3B875D00927D45 /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/Summarizer.strings; sourceTree = "<group>"; };
+		4369351830371BC00044770E /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/AddressToolbar.strings; sourceTree = "<group>"; };
+		4369351930371BC00044770E /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/EditAddress.strings; sourceTree = "<group>"; };
+		4369351A30371BC00044770E /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/EnhancedTrackingProtection.strings; sourceTree = "<group>"; };
+		4369351B30371BC00044770E /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/LiveActivity.strings; sourceTree = "<group>"; };
+		4369351C30371BC00044770E /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		4369351D30371BC00044770E /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/NativeErrorPage.strings; sourceTree = "<group>"; };
+		4369351E30371BC00044770E /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/SocialShare.strings; sourceTree = "<group>"; };
+		4369351F30371BC00044770E /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/Translations.strings; sourceTree = "<group>"; };
+		4369352030371BC00044770E /* be */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = be; path = be.lproj/WebView.strings; sourceTree = "<group>"; };
 		436957A82C57AFB100B079FE /* cy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cy; path = cy.lproj/ScanQRCode.strings; sourceTree = "<group>"; };
 		43696A66292B9719002C3EAD /* zh-CN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-CN"; path = "zh-CN.lproj/SearchHeaderTitle.strings"; sourceTree = "<group>"; };
 		436985E428B39FFE00198055 /* zh-TW */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-TW"; path = "zh-TW.lproj/JumpBackIn.strings"; sourceTree = "<group>"; };
@@ -5544,6 +5730,47 @@
 		43711C682B83905C006DC502 /* dsb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = dsb; path = dsb.lproj/PasswordAutofill.strings; sourceTree = "<group>"; };
 		437126952EBCB8CA0023653F /* bg */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = bg; path = bg.lproj/SearchZero.strings; sourceTree = "<group>"; };
 		437137DB2BE8F23800A3F62D /* eo */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = eo; path = eo.lproj/Microsurvey.strings; sourceTree = "<group>"; };
+		43713BA930371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Alert.strings; sourceTree = "<group>"; };
+		43713BAA30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Alerts.strings; sourceTree = "<group>"; };
+		43713BAB30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/AppIconSelection.strings; sourceTree = "<group>"; };
+		43713BAC30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/BiometricAuthentication.strings; sourceTree = "<group>"; };
+		43713BAD30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Bookmarks.strings; sourceTree = "<group>"; };
+		43713BAE30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/ContextualHints.strings; sourceTree = "<group>"; };
+		43713BAF30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/CredentialProvider.strings; sourceTree = "<group>"; };
+		43713BB030371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Credentials.strings; sourceTree = "<group>"; };
+		43713BB130371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/DisplayCard.strings; sourceTree = "<group>"; };
+		43713BB230371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = "ar.lproj/Edit Card.strings"; sourceTree = "<group>"; };
+		43713BB330371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/EditCard.strings; sourceTree = "<group>"; };
+		43713BB430371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/EngagementNotification.strings; sourceTree = "<group>"; };
+		43713BB530371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/ErrorState.strings; sourceTree = "<group>"; };
+		43713BB630371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/ExternalLink.strings; sourceTree = "<group>"; };
+		43713BB730371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/FirefoxHomepage.strings; sourceTree = "<group>"; };
+		43713BB830371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/FirefoxLogins.strings; sourceTree = "<group>"; };
+		43713BB930371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/FirefoxSync.strings; sourceTree = "<group>"; };
+		43713BBA30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Footer.strings; sourceTree = "<group>"; };
+		43713BBB30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/FxANotification.strings; sourceTree = "<group>"; };
+		43713BBC30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/JumpBackIn.strings; sourceTree = "<group>"; };
+		43713BBD30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/KeyboardAccessory.strings; sourceTree = "<group>"; };
+		43713BBE30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LibraryPanel.strings; sourceTree = "<group>"; };
+		43713BBF30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LiveActivity.strings; sourceTree = "<group>"; };
+		43713BC030371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LoginsHelper.strings; sourceTree = "<group>"; };
+		43713BC130371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		43713BC230371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Microsurvey.strings; sourceTree = "<group>"; };
+		43713BC330371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Notification.strings; sourceTree = "<group>"; };
+		43713BC430371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Onboarding.strings; sourceTree = "<group>"; };
+		43713BC530371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/PasswordAutofill.strings; sourceTree = "<group>"; };
+		43713BC630371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/RememberCard.strings; sourceTree = "<group>"; };
+		43713BC730371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/ResearchSurface.strings; sourceTree = "<group>"; };
+		43713BC830371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/SearchHeaderTitle.strings; sourceTree = "<group>"; };
+		43713BC930371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/SelectCreditCard.strings; sourceTree = "<group>"; };
+		43713BCA30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Settings.strings; sourceTree = "<group>"; };
+		43713BCB30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/SnackBar.strings; sourceTree = "<group>"; };
+		43713BCC30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/TabLocation.strings; sourceTree = "<group>"; };
+		43713BCD30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/TabsTray.strings; sourceTree = "<group>"; };
+		43713BCE30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/ToolbarLocation.strings; sourceTree = "<group>"; };
+		43713BCF30371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/UpdateCard.strings; sourceTree = "<group>"; };
+		43713BD030371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Upgrade.strings; sourceTree = "<group>"; };
+		43713BD130371BA300F03094 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/ZoomPageBar.strings; sourceTree = "<group>"; };
 		43714C462ECF32170085238A /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/RelayMask.strings; sourceTree = "<group>"; };
 		43716D742CF49B6C00C3C6CC /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/SocialMediaApp.strings; sourceTree = "<group>"; };
 		43716D752CF49B6C00C3C6CC /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/SocialShare.strings; sourceTree = "<group>"; };
@@ -5781,6 +6008,14 @@
 		437EA6282B83915700DE9E71 /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/KeyboardAccessory.strings; sourceTree = "<group>"; };
 		437EA6292B83915700DE9E71 /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/PasswordAutofill.strings; sourceTree = "<group>"; };
 		437ED5132D5A15470025CB01 /* hsb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hsb; path = hsb.lproj/ExternalLink.strings; sourceTree = "<group>"; };
+		437F0E0730371C8E00EF8E52 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/AppIconSelection.strings; sourceTree = "<group>"; };
+		437F0E0830371C8E00EF8E52 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LiveActivity.strings; sourceTree = "<group>"; };
+		437F0E0930371C8E00EF8E52 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/RelayMask.strings; sourceTree = "<group>"; };
+		437F0E0A30371C8E00EF8E52 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SearchZero.strings; sourceTree = "<group>"; };
+		437F0E0B30371C8E00EF8E52 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Summarize.strings; sourceTree = "<group>"; };
+		437F0E0C30371C8E00EF8E52 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Summarizer.strings; sourceTree = "<group>"; };
+		437F0E0D30371C8E00EF8E52 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/TermsOfUse.strings; sourceTree = "<group>"; };
+		437F0E0E30371C8E00EF8E52 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Translations.strings; sourceTree = "<group>"; };
 		437F2E942EC5F343004D0C5A /* cy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cy; path = cy.lproj/RelayMask.strings; sourceTree = "<group>"; };
 		437F339929EF08FC003E82BC /* rm */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = rm; path = "rm.lproj/Edit Card.strings"; sourceTree = "<group>"; };
 		437F345E2DC5010300BABCD4 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/LiveActivity.strings; sourceTree = "<group>"; };
@@ -6542,6 +6777,13 @@
 		43A991F22E3B88460064D371 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Summarizer.strings; sourceTree = "<group>"; };
 		43A9B1E62A124A3800FB58C6 /* cy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cy; path = cy.lproj/FirefoxSync.strings; sourceTree = "<group>"; };
 		43A9B1E72A124A3800FB58C6 /* cy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cy; path = cy.lproj/Upgrade.strings; sourceTree = "<group>"; };
+		43A9DC3A30371F210057A767 /* te */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = te; path = te.lproj/ActivityStream.strings; sourceTree = "<group>"; };
+		43A9DC3B30371F210057A767 /* te */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = te; path = te.lproj/AddressToolbar.strings; sourceTree = "<group>"; };
+		43A9DC3C30371F210057A767 /* te */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = te; path = te.lproj/Alert.strings; sourceTree = "<group>"; };
+		43A9DC3D30371F210057A767 /* te */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = te; path = te.lproj/Alerts.strings; sourceTree = "<group>"; };
+		43A9DC3E30371F210057A767 /* te */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = te; path = te.lproj/Bookmarks.strings; sourceTree = "<group>"; };
+		43A9DC3F30371F210057A767 /* te */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = te; path = te.lproj/CredentialProvider.strings; sourceTree = "<group>"; };
+		43A9DC4030371F210057A767 /* te */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = te; path = te.lproj/EditAddress.strings; sourceTree = "<group>"; };
 		43A9DD9A29BA6B3A003D55A4 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/EngagementNotification.strings; sourceTree = "<group>"; };
 		43A9DD9B29BA6B3B003D55A4 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Onboarding.strings; sourceTree = "<group>"; };
 		43A9DD9C29BA6B3B003D55A4 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/ResearchSurface.strings; sourceTree = "<group>"; };
@@ -6877,6 +7119,11 @@
 		43BE578B278BA4D900491291 /* RustMozillaAppServices-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RustMozillaAppServices-Info.plist"; sourceTree = "<group>"; };
 		43BE95742A124BAD00DCFD17 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/FirefoxSync.strings; sourceTree = "<group>"; };
 		43BE95752A124BAD00DCFD17 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Upgrade.strings; sourceTree = "<group>"; };
+		43BED68030371F4900173D57 /* tt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tt; path = tt.lproj/RelayMask.strings; sourceTree = "<group>"; };
+		43BED68130371F4900173D57 /* tt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tt; path = tt.lproj/SearchZero.strings; sourceTree = "<group>"; };
+		43BED68230371F4900173D57 /* tt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tt; path = tt.lproj/Summarizer.strings; sourceTree = "<group>"; };
+		43BED68330371F4900173D57 /* tt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tt; path = tt.lproj/TermsOfUse.strings; sourceTree = "<group>"; };
+		43BED68430371F4900173D57 /* tt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tt; path = tt.lproj/Translations.strings; sourceTree = "<group>"; };
 		43BED8DE2BE8F1F100E34361 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/Microsurvey.strings; sourceTree = "<group>"; };
 		43BEE15C2E4DFB2A00C440DF /* hsb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hsb; path = hsb.lproj/Summarize.strings; sourceTree = "<group>"; };
 		43BEE15D2E4DFB2A00C440DF /* hsb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hsb; path = hsb.lproj/TermsOfUse.strings; sourceTree = "<group>"; };
@@ -6975,6 +7222,9 @@
 		43C680D22B554A9D00960168 /* hy-AM */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hy-AM"; path = "hy-AM.lproj/TabToolbar.strings"; sourceTree = "<group>"; };
 		43C6A09628B39E8600DFC656 /* or */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = or; path = or.lproj/LoginManager.strings; sourceTree = "<group>"; };
 		43C6A09728B39E8600DFC656 /* or */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = or; path = or.lproj/BookmarkPanel.strings; sourceTree = "<group>"; };
+		43C6BBCD30371E9E00DAE29B /* rm */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = rm; path = rm.lproj/RelayMask.strings; sourceTree = "<group>"; };
+		43C6BBCE30371E9E00DAE29B /* rm */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = rm; path = rm.lproj/SearchZero.strings; sourceTree = "<group>"; };
+		43C6BBCF30371E9E00DAE29B /* rm */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = rm; path = rm.lproj/Translations.strings; sourceTree = "<group>"; };
 		43C6D62A2CF498E3001AB083 /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/SocialMediaApp.strings"; sourceTree = "<group>"; };
 		43C6D62B2CF498E3001AB083 /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/SocialShare.strings"; sourceTree = "<group>"; };
 		43C6E56529F69AB000C42AEB /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/Notification.strings"; sourceTree = "<group>"; };
@@ -7127,6 +7377,19 @@
 		43D089B82E324B8C00A75040 /* gl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gl; path = gl.lproj/WebView.strings; sourceTree = "<group>"; };
 		43D09B062B14B21200118FE3 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/FirefoxHomepage.strings; sourceTree = "<group>"; };
 		43D0A87F2EBCB911001386C1 /* co */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = co; path = co.lproj/SearchZero.strings; sourceTree = "<group>"; };
+		43D0BB9F30371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/AppIconSelection.strings; sourceTree = "<group>"; };
+		43D0BBA030371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/ExternalLink.strings; sourceTree = "<group>"; };
+		43D0BBA130371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/LibraryPanel.strings; sourceTree = "<group>"; };
+		43D0BBA230371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/LiveActivity.strings; sourceTree = "<group>"; };
+		43D0BBA330371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/RelayMask.strings; sourceTree = "<group>"; };
+		43D0BBA430371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/SearchZero.strings; sourceTree = "<group>"; };
+		43D0BBA530371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/SocialMediaApp.strings; sourceTree = "<group>"; };
+		43D0BBA630371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/SocialShare.strings; sourceTree = "<group>"; };
+		43D0BBA730371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/Summarize.strings; sourceTree = "<group>"; };
+		43D0BBA830371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/Summarizer.strings; sourceTree = "<group>"; };
+		43D0BBA930371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/TermsOfUse.strings; sourceTree = "<group>"; };
+		43D0BBAA30371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/Translations.strings; sourceTree = "<group>"; };
+		43D0BBAB30371CF800BA47DC /* gd */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = gd; path = gd.lproj/WebView.strings; sourceTree = "<group>"; };
 		43D0EAD02D75C58F00AC1E8D /* scn */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = scn; path = scn.lproj/AppIconSelection.strings; sourceTree = "<group>"; };
 		43D102402DDB47D200E10221 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Shopping.strings; sourceTree = "<group>"; };
 		43D107F028B39AC6008DA9B8 /* bg */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = bg; path = bg.lproj/BookmarkPanel.strings; sourceTree = "<group>"; };
@@ -7338,6 +7601,7 @@
 		43D99CD92C298E7F002BB0A5 /* pa-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pa-IN"; path = "pa-IN.lproj/QRCode.strings"; sourceTree = "<group>"; };
 		43D9AA50293E0C9300B77CA4 /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Alerts.strings; sourceTree = "<group>"; };
 		43D9AA51293E0C9300B77CA4 /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/TabsTray.strings; sourceTree = "<group>"; };
+		43D9B10830371BFF006B8E1C /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/RelayMask.strings; sourceTree = "<group>"; };
 		43DAB1CD2922597600BB49F0 /* cy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cy; path = cy.lproj/SearchHeaderTitle.strings; sourceTree = "<group>"; };
 		43DAB1E52DDB480200E0A7B9 /* en-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-CA"; path = "en-CA.lproj/Shopping.strings"; sourceTree = "<group>"; };
 		43DAB7752EA10D7C002228B5 /* sl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sl; path = sl.lproj/Translations.strings; sourceTree = "<group>"; };
@@ -7908,6 +8172,18 @@
 		43EECA392C3C00560032D70E /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/ScanQRCode.strings"; sourceTree = "<group>"; };
 		43EF005E2DDB49C200EEC4AE /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/Shopping.strings"; sourceTree = "<group>"; };
 		43EF0C6C2DDB486700E66598 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Shopping.strings; sourceTree = "<group>"; };
+		43EF13B430371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/AppIconSelection.strings; sourceTree = "<group>"; };
+		43EF13B530371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/ExternalLink.strings; sourceTree = "<group>"; };
+		43EF13B630371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/LiveActivity.strings; sourceTree = "<group>"; };
+		43EF13B730371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/RelayMask.strings; sourceTree = "<group>"; };
+		43EF13B830371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/SearchZero.strings; sourceTree = "<group>"; };
+		43EF13B930371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/SocialMediaApp.strings; sourceTree = "<group>"; };
+		43EF13BA30371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/SocialShare.strings; sourceTree = "<group>"; };
+		43EF13BB30371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Summarize.strings; sourceTree = "<group>"; };
+		43EF13BC30371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Summarizer.strings; sourceTree = "<group>"; };
+		43EF13BD30371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/TermsOfUse.strings; sourceTree = "<group>"; };
+		43EF13BE30371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Translations.strings; sourceTree = "<group>"; };
+		43EF13BF30371E8000D10A2C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/WebView.strings; sourceTree = "<group>"; };
 		43EF15192EA10D2400A8321E /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Translations.strings; sourceTree = "<group>"; };
 		43EF1EF82E3B899200183FFB /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Summarizer.strings; sourceTree = "<group>"; };
 		43EF24402F0FC91700EA2023 /* sat-Olck */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sat-Olck"; path = "sat-Olck.lproj/ExternalLink.strings"; sourceTree = "<group>"; };
@@ -7946,6 +8222,7 @@
 		43F1A168292B94BB006E6E48 /* hsb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hsb; path = hsb.lproj/SearchHeaderTitle.strings; sourceTree = "<group>"; };
 		43F1B78628B39D2C00E883CB /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/JumpBackIn.strings; sourceTree = "<group>"; };
 		43F1B78728B39D2C00E883CB /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/ToolbarLocation.strings; sourceTree = "<group>"; };
+		43F1B98E30371EF000782D4D /* sl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sl; path = sl.lproj/Summarize.strings; sourceTree = "<group>"; };
 		43F1DA872A81085800CC66D6 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/CustomizeFirefoxHome.strings; sourceTree = "<group>"; };
 		43F1DA882A81085800CC66D6 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/SelectCreditCard.strings; sourceTree = "<group>"; };
 		43F1F5FA2AC1A3A7004382C5 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Share.strings; sourceTree = "<group>"; };
@@ -17268,6 +17545,7 @@
 				"es-ES",
 				tzm,
 				ny,
+				sr,
 			);
 			mainGroup = F84B21B51A090F8100AAB793;
 			packageReferences = (
@@ -20168,6 +20446,7 @@
 				43E58E422D6C8B9200B07153 /* tg */,
 				435B20AE2D75C47A00D1CC3A /* es-ES */,
 				433D74F42D75C5FE003D5A32 /* tzm */,
+				43383A6230371F0100881F38 /* sr */,
 			);
 			name = Menu.strings;
 			sourceTree = "<group>";
@@ -20273,6 +20552,7 @@
 				4385A41D2D1980C90003475A /* scn */,
 				43E58E452D6C8B9200B07153 /* tg */,
 				435B20B12D75C47A00D1CC3A /* es-ES */,
+				43383A6530371F0100881F38 /* sr */,
 			);
 			name = Shared.strings;
 			sourceTree = "<group>";
@@ -20367,6 +20647,8 @@
 				4385A41F2D1980CA0003475A /* scn */,
 				43E58E472D6C8B9200B07153 /* tg */,
 				435B20B32D75C47A00D1CC3A /* es-ES */,
+				4348B61830371DAA007F625D /* km */,
+				43383A6730371F0100881F38 /* sr */,
 			);
 			name = Today.strings;
 			sourceTree = "<group>";
@@ -20474,6 +20756,7 @@
 				4385A40F2D1980C90003475A /* scn */,
 				43E58E372D6C8B9200B07153 /* tg */,
 				435B20A32D75C47A00D1CC3A /* es-ES */,
+				43383A5730371F0100881F38 /* sr */,
 			);
 			name = AuthenticationManager.strings;
 			sourceTree = "<group>";
@@ -20539,6 +20822,13 @@
 				431F877D2EB37E680044B503 /* co */,
 				43B8964A2EB3818B00A77D8F /* sq */,
 				4343A5D62EE1A3E2002FE739 /* hr */,
+				437F0E0C30371C8E00EF8E52 /* es */,
+				432D2EDF30371CB50002FBC3 /* es-MX */,
+				43D0BBA830371CF800BA47DC /* gd */,
+				4348B64E30371DAA007F625D /* km */,
+				43EF13BC30371E8000D10A2C /* pl */,
+				43383A9F30371F0200881F38 /* sr */,
+				43BED68230371F4900173D57 /* tt */,
 			);
 			name = Summarizer.strings;
 			sourceTree = "<group>";
@@ -20616,6 +20906,10 @@
 				43B646422DEDBCF3003B42A7 /* et */,
 				434B156C2E4DFBED00CA0EC8 /* ro */,
 				4321E8DE2E8559960007800A /* bg */,
+				43713BAD30371BA300F03094 /* ar */,
+				4348B61F30371DAA007F625D /* km */,
+				43383A7030371F0100881F38 /* sr */,
+				43A9DC3E30371F210057A767 /* te */,
 			);
 			name = Bookmarks.strings;
 			sourceTree = "<group>";
@@ -20691,6 +20985,11 @@
 				43E58E662D6C8B9300B07153 /* tg */,
 				435B20D22D75C47A00D1CC3A /* es-ES */,
 				434B15802E4DFBEE00CA0EC8 /* ro */,
+				43713BC130371BA300F03094 /* ar */,
+				4369351C30371BC00044770E /* be */,
+				4348B63730371DAA007F625D /* km */,
+				433E10F030371DE90044583A /* lv */,
+				43383A8830371F0100881F38 /* sr */,
 			);
 			name = MainMenu.strings;
 			sourceTree = "<group>";
@@ -20768,6 +21067,9 @@
 				435B20DF2D75C47A00D1CC3A /* es-ES */,
 				434B158B2E4DFBEE00CA0EC8 /* ro */,
 				4321E8FE2E8559960007800A /* bg */,
+				43713BC930371BA300F03094 /* ar */,
+				4348B64630371DAA007F625D /* km */,
+				43383A9730371F0200881F38 /* sr */,
 			);
 			name = SelectCreditCard.strings;
 			sourceTree = "<group>";
@@ -20845,6 +21147,10 @@
 				435B20E72D75C47A00D1CC3A /* es-ES */,
 				43934B002DC5009B00309EA6 /* id */,
 				434B15942E4DFBEE00CA0EC8 /* ro */,
+				43713BCC30371BA300F03094 /* ar */,
+				4348B64F30371DAA007F625D /* km */,
+				433E10F630371DE90044583A /* lv */,
+				43383AA030371F0200881F38 /* sr */,
 			);
 			name = TabLocation.strings;
 			sourceTree = "<group>";
@@ -20916,6 +21222,11 @@
 				435C27AD2E69AC62006B0D62 /* tt */,
 				4321E8EA2E8559960007800A /* bg */,
 				43EF24402F0FC91700EA2023 /* sat-Olck */,
+				43713BB630371BA300F03094 /* ar */,
+				43D0BBA030371CF800BA47DC /* gd */,
+				4348B62C30371DAA007F625D /* km */,
+				43EF13B530371E8000D10A2C /* pl */,
+				43383A7D30371F0100881F38 /* sr */,
 			);
 			name = ExternalLink.strings;
 			sourceTree = "<group>";
@@ -20993,6 +21304,9 @@
 				435B20CF2D75C47A00D1CC3A /* es-ES */,
 				434B157C2E4DFBED00CA0EC8 /* ro */,
 				4321E8F12E8559960007800A /* bg */,
+				43713BBD30371BA300F03094 /* ar */,
+				4348B63330371DAA007F625D /* km */,
+				43383A8430371F0100881F38 /* sr */,
 			);
 			name = KeyboardAccessory.strings;
 			sourceTree = "<group>";
@@ -21070,6 +21384,9 @@
 				435B20B82D75C47A00D1CC3A /* es-ES */,
 				434B156A2E4DFBED00CA0EC8 /* ro */,
 				4321E8DC2E8559960007800A /* bg */,
+				43713BAC30371BA300F03094 /* ar */,
+				4348B61E30371DAA007F625D /* km */,
+				43383A6D30371F0100881F38 /* sr */,
 			);
 			name = BiometricAuthentication.strings;
 			sourceTree = "<group>";
@@ -21148,6 +21465,10 @@
 				435B20C72D75C47A00D1CC3A /* es-ES */,
 				434B15772E4DFBED00CA0EC8 /* ro */,
 				4321E8E92E8559960007800A /* bg */,
+				43713BB530371BA300F03094 /* ar */,
+				4348B62B30371DAA007F625D /* km */,
+				433E10EE30371DE90044583A /* lv */,
+				43383A7C30371F0100881F38 /* sr */,
 			);
 			name = ErrorState.strings;
 			sourceTree = "<group>";
@@ -21223,6 +21544,8 @@
 				43934AFF2DC5009B00309EA6 /* id */,
 				434B15912E4DFBEE00CA0EC8 /* ro */,
 				4321E9042E8559960007800A /* bg */,
+				4348B64C30371DAA007F625D /* km */,
+				43383A9D30371F0200881F38 /* sr */,
 			);
 			name = SuggestedSites.strings;
 			sourceTree = "<group>";
@@ -21300,6 +21623,10 @@
 				435B20CE2D75C47A00D1CC3A /* es-ES */,
 				434B157B2E4DFBED00CA0EC8 /* ro */,
 				4321E8F02E8559960007800A /* bg */,
+				43713BBC30371BA300F03094 /* ar */,
+				4348B63230371DAA007F625D /* km */,
+				433E10EF30371DE90044583A /* lv */,
+				43383A8330371F0100881F38 /* sr */,
 			);
 			name = JumpBackIn.strings;
 			sourceTree = "<group>";
@@ -21377,6 +21704,9 @@
 				435B20EB2D75C47A00D1CC3A /* es-ES */,
 				434B15992E4DFBEE00CA0EC8 /* ro */,
 				4321E90B2E8559960007800A /* bg */,
+				43713BCE30371BA300F03094 /* ar */,
+				4348B65430371DAA007F625D /* km */,
+				43383AA530371F0200881F38 /* sr */,
 			);
 			name = ToolbarLocation.strings;
 			sourceTree = "<group>";
@@ -21450,6 +21780,10 @@
 				435B20D02D75C47A00D1CC3A /* es-ES */,
 				434B157D2E4DFBED00CA0EC8 /* ro */,
 				4321E8F22E8559960007800A /* bg */,
+				43713BBE30371BA300F03094 /* ar */,
+				43D0BBA130371CF800BA47DC /* gd */,
+				4348B63430371DAA007F625D /* km */,
+				43383A8530371F0100881F38 /* sr */,
 			);
 			name = LibraryPanel.strings;
 			sourceTree = "<group>";
@@ -21525,6 +21859,9 @@
 				438FA6AE2DC501500069D5FE /* ro */,
 				435C27AF2E69AC62006B0D62 /* tt */,
 				4321E8EF2E8559960007800A /* bg */,
+				43713BBB30371BA300F03094 /* ar */,
+				4348B63130371DAA007F625D /* km */,
+				43383A8230371F0100881F38 /* sr */,
 			);
 			name = FxANotification.strings;
 			sourceTree = "<group>";
@@ -21600,6 +21937,9 @@
 				435B20DD2D75C47A00D1CC3A /* es-ES */,
 				434B15892E4DFBEE00CA0EC8 /* ro */,
 				4321E8FC2E8559960007800A /* bg */,
+				4348B64330371DAA007F625D /* km */,
+				433E10F430371DE90044583A /* lv */,
+				43383A9430371F0200881F38 /* sr */,
 			);
 			name = SearchEngineSelection.strings;
 			sourceTree = "<group>";
@@ -21670,6 +22010,12 @@
 				435C27AC2E69AC62006B0D62 /* tt */,
 				4321E8DB2E8559960007800A /* bg */,
 				435DDBC32F068EE000A64C4B /* sat-Olck */,
+				43713BAB30371BA300F03094 /* ar */,
+				437F0E0730371C8E00EF8E52 /* es */,
+				43D0BB9F30371CF800BA47DC /* gd */,
+				4348B61D30371DAA007F625D /* km */,
+				43EF13B430371E8000D10A2C /* pl */,
+				43383A6C30371F0100881F38 /* sr */,
 			);
 			name = AppIconSelection.strings;
 			sourceTree = "<group>";
@@ -21739,6 +22085,14 @@
 				435C27B02E69AC62006B0D62 /* tt */,
 				4321E8F32E8559960007800A /* bg */,
 				43EF24412F0FC91700EA2023 /* sat-Olck */,
+				43713BBF30371BA300F03094 /* ar */,
+				4369351B30371BC00044770E /* be */,
+				437F0E0830371C8E00EF8E52 /* es */,
+				432D2EDB30371CB50002FBC3 /* es-MX */,
+				43D0BBA230371CF800BA47DC /* gd */,
+				4348B63530371DAA007F625D /* km */,
+				43EF13B630371E8000D10A2C /* pl */,
+				43383A8630371F0100881F38 /* sr */,
 			);
 			name = LiveActivity.strings;
 			sourceTree = "<group>";
@@ -21816,6 +22170,9 @@
 				435B20C92D75C47A00D1CC3A /* es-ES */,
 				435C27AE2E69AC62006B0D62 /* tt */,
 				4321E8EB2E8559960007800A /* bg */,
+				43713BB730371BA300F03094 /* ar */,
+				4348B62D30371DAA007F625D /* km */,
+				43383A7E30371F0100881F38 /* sr */,
 			);
 			name = FirefoxHomepage.strings;
 			sourceTree = "<group>";
@@ -21888,6 +22245,10 @@
 				43637EBA2E1BE125008D0E12 /* br */,
 				434B158F2E4DFBEE00CA0EC8 /* ro */,
 				4321E9022E8559960007800A /* bg */,
+				43D0BBA530371CF800BA47DC /* gd */,
+				4348B64A30371DAA007F625D /* km */,
+				43EF13B930371E8000D10A2C /* pl */,
+				43383A9B30371F0200881F38 /* sr */,
 			);
 			name = SocialMediaApp.strings;
 			sourceTree = "<group>";
@@ -21958,6 +22319,11 @@
 				43637EBB2E1BE125008D0E12 /* br */,
 				434B15902E4DFBEE00CA0EC8 /* ro */,
 				4321E9032E8559960007800A /* bg */,
+				4369351E30371BC00044770E /* be */,
+				43D0BBA630371CF800BA47DC /* gd */,
+				4348B64B30371DAA007F625D /* km */,
+				43EF13BA30371E8000D10A2C /* pl */,
+				43383A9C30371F0200881F38 /* sr */,
 			);
 			name = SocialShare.strings;
 			sourceTree = "<group>";
@@ -22036,6 +22402,8 @@
 				43E58E502D6C8B9200B07153 /* tg */,
 				435B20BC2D75C47A00D1CC3A /* es-ES */,
 				434B156D2E4DFBED00CA0EC8 /* ro */,
+				4348B62030371DAA007F625D /* km */,
+				43383A7130371F0100881F38 /* sr */,
 			);
 			name = BottomSheet.strings;
 			sourceTree = "<group>";
@@ -22095,6 +22463,14 @@
 				43E3BAB62EE1A31D00DBBCB9 /* en-CA */,
 				4343A5D42EE1A3E2002FE739 /* hr */,
 				435B73342EEADFB00045257B /* ml */,
+				437F0E0A30371C8E00EF8E52 /* es */,
+				432D2EDD30371CB50002FBC3 /* es-MX */,
+				43D0BBA430371CF800BA47DC /* gd */,
+				4348B64530371DAA007F625D /* km */,
+				43EF13B830371E8000D10A2C /* pl */,
+				43C6BBCE30371E9E00DAE29B /* rm */,
+				43383A9630371F0200881F38 /* sr */,
+				43BED68130371F4900173D57 /* tt */,
 			);
 			name = SearchZero.strings;
 			path = "Shared/Supporting Files";
@@ -22174,6 +22550,9 @@
 				435B20C22D75C47A00D1CC3A /* es-ES */,
 				434B15732E4DFBED00CA0EC8 /* ro */,
 				4321E8E42E8559960007800A /* bg */,
+				43713BB230371BA300F03094 /* ar */,
+				4348B62630371DAA007F625D /* km */,
+				43383A7730371F0100881F38 /* sr */,
 			);
 			name = "Edit Card.strings";
 			sourceTree = "<group>";
@@ -22252,6 +22631,11 @@
 				435B20B72D75C47A00D1CC3A /* es-ES */,
 				434B15682E4DFBED00CA0EC8 /* ro */,
 				4321E8DA2E8559960007800A /* bg */,
+				43713BAA30371BA300F03094 /* ar */,
+				4348B61C30371DAA007F625D /* km */,
+				433E10E930371DE90044583A /* lv */,
+				43383A6B30371F0100881F38 /* sr */,
+				43A9DC3D30371F210057A767 /* te */,
 			);
 			name = Alerts.strings;
 			sourceTree = "<group>";
@@ -22329,6 +22713,9 @@
 				435B20E82D75C47A00D1CC3A /* es-ES */,
 				434B15952E4DFBEE00CA0EC8 /* ro */,
 				4321E9072E8559960007800A /* bg */,
+				43713BCD30371BA300F03094 /* ar */,
+				4348B65030371DAA007F625D /* km */,
+				43383AA130371F0200881F38 /* sr */,
 			);
 			name = TabsTray.strings;
 			sourceTree = "<group>";
@@ -22404,6 +22791,10 @@
 				435B20D42D75C47A00D1CC3A /* es-ES */,
 				434B15822E4DFBEE00CA0EC8 /* ro */,
 				4321E8F52E8559960007800A /* bg */,
+				4369351D30371BC00044770E /* be */,
+				4348B63930371DAA007F625D /* km */,
+				433E10F130371DE90044583A /* lv */,
+				43383A8A30371F0100881F38 /* sr */,
 			);
 			name = NativeErrorPage.strings;
 			sourceTree = "<group>";
@@ -22481,6 +22872,9 @@
 				435B20B42D75C47A00D1CC3A /* es-ES */,
 				434B15652E4DFBED00CA0EC8 /* ro */,
 				4321E8D72E8559960007800A /* bg */,
+				4348B61930371DAA007F625D /* km */,
+				43383A6830371F0100881F38 /* sr */,
+				43A9DC3A30371F210057A767 /* te */,
 			);
 			name = ActivityStream.strings;
 			sourceTree = "<group>";
@@ -22558,6 +22952,10 @@
 				435B20B52D75C47A00D1CC3A /* es-ES */,
 				434B15662E4DFBED00CA0EC8 /* ro */,
 				4321E8D82E8559960007800A /* bg */,
+				4369351830371BC00044770E /* be */,
+				4348B61A30371DAA007F625D /* km */,
+				43383A6930371F0100881F38 /* sr */,
+				43A9DC3B30371F210057A767 /* te */,
 			);
 			name = AddressToolbar.strings;
 			sourceTree = "<group>";
@@ -22636,6 +23034,10 @@
 				4327BCF32DC8D4470007344D /* fil */,
 				434B15762E4DFBED00CA0EC8 /* ro */,
 				4321E8E82E8559960007800A /* bg */,
+				4369351A30371BC00044770E /* be */,
+				4348B62A30371DAA007F625D /* km */,
+				433E10ED30371DE90044583A /* lv */,
+				43383A7B30371F0100881F38 /* sr */,
 			);
 			name = EnhancedTrackingProtection.strings;
 			sourceTree = "<group>";
@@ -22712,6 +23114,8 @@
 				43E58E6D2D6C8B9300B07153 /* tg */,
 				435B20D92D75C47A00D1CC3A /* es-ES */,
 				434B15862E4DFBEE00CA0EC8 /* ro */,
+				4348B63E30371DAA007F625D /* km */,
+				43383A8F30371F0100881F38 /* sr */,
 			);
 			name = QRCode.strings;
 			sourceTree = "<group>";
@@ -22790,6 +23194,9 @@
 				435B20C52D75C47A00D1CC3A /* es-ES */,
 				434B15752E4DFBED00CA0EC8 /* ro */,
 				4321E8E72E8559960007800A /* bg */,
+				43713BB430371BA300F03094 /* ar */,
+				4348B62930371DAA007F625D /* km */,
+				43383A7A30371F0100881F38 /* sr */,
 			);
 			name = EngagementNotification.strings;
 			sourceTree = "<group>";
@@ -22869,6 +23276,10 @@
 				43E58E6A2D6C8B9300B07153 /* tg */,
 				435B20D62D75C47A00D1CC3A /* es-ES */,
 				4327BCF42DC8D4470007344D /* fil */,
+				43713BC430371BA300F03094 /* ar */,
+				4348B63B30371DAA007F625D /* km */,
+				433E10F230371DE90044583A /* lv */,
+				43383A8C30371F0100881F38 /* sr */,
 			);
 			name = Onboarding.strings;
 			sourceTree = "<group>";
@@ -22946,6 +23357,9 @@
 				43E58E6F2D6C8B9300B07153 /* tg */,
 				435B20DB2D75C47A00D1CC3A /* es-ES */,
 				4321E8FA2E8559960007800A /* bg */,
+				43713BC730371BA300F03094 /* ar */,
+				4348B64130371DAA007F625D /* km */,
+				43383A9230371F0100881F38 /* sr */,
 			);
 			name = ResearchSurface.strings;
 			sourceTree = "<group>";
@@ -23023,6 +23437,9 @@
 				435B20D52D75C47A00D1CC3A /* es-ES */,
 				434B15832E4DFBEE00CA0EC8 /* ro */,
 				4321E8F62E8559960007800A /* bg */,
+				43713BC330371BA300F03094 /* ar */,
+				4348B63A30371DAA007F625D /* km */,
+				43383A8B30371F0100881F38 /* sr */,
 			);
 			name = Notification.strings;
 			sourceTree = "<group>";
@@ -23100,6 +23517,9 @@
 				43934B022DC5009B00309EA6 /* id */,
 				434B159D2E4DFBEE00CA0EC8 /* ro */,
 				4321E90F2E8559960007800A /* bg */,
+				43713BD130371BA300F03094 /* ar */,
+				4348B65930371DAA007F625D /* km */,
+				43383AAA30371F0200881F38 /* sr */,
 			);
 			name = ZoomPageBar.strings;
 			sourceTree = "<group>";
@@ -23178,6 +23598,9 @@
 				435B20CC2D75C47A00D1CC3A /* es-ES */,
 				434B157A2E4DFBED00CA0EC8 /* ro */,
 				4321E8EE2E8559960007800A /* bg */,
+				43713BBA30371BA300F03094 /* ar */,
+				4348B63030371DAA007F625D /* km */,
+				43383A8130371F0100881F38 /* sr */,
 			);
 			name = Footer.strings;
 			sourceTree = "<group>";
@@ -23255,6 +23678,9 @@
 				435B20DA2D75C47A00D1CC3A /* es-ES */,
 				434B15872E4DFBEE00CA0EC8 /* ro */,
 				4321E8F92E8559960007800A /* bg */,
+				43713BC630371BA300F03094 /* ar */,
+				4348B64030371DAA007F625D /* km */,
+				43383A9130371F0100881F38 /* sr */,
 			);
 			name = RememberCard.strings;
 			sourceTree = "<group>";
@@ -23332,6 +23758,9 @@
 				435B20EC2D75C47A00D1CC3A /* es-ES */,
 				434B159A2E4DFBEE00CA0EC8 /* ro */,
 				4321E90C2E8559960007800A /* bg */,
+				43713BCF30371BA300F03094 /* ar */,
+				4348B65630371DAA007F625D /* km */,
+				43383AA730371F0200881F38 /* sr */,
 			);
 			name = UpdateCard.strings;
 			sourceTree = "<group>";
@@ -23409,6 +23838,9 @@
 				435B20D72D75C47A00D1CC3A /* es-ES */,
 				434B15842E4DFBEE00CA0EC8 /* ro */,
 				4321E8F72E8559960007800A /* bg */,
+				43713BC530371BA300F03094 /* ar */,
+				4348B63C30371DAA007F625D /* km */,
+				43383A8D30371F0100881F38 /* sr */,
 			);
 			name = PasswordAutofill.strings;
 			sourceTree = "<group>";
@@ -23486,6 +23918,9 @@
 				435B20BD2D75C47A00D1CC3A /* es-ES */,
 				434B156E2E4DFBED00CA0EC8 /* ro */,
 				4321E8DF2E8559960007800A /* bg */,
+				43713BAE30371BA300F03094 /* ar */,
+				4348B62130371DAA007F625D /* km */,
+				43383A7230371F0100881F38 /* sr */,
 			);
 			name = ContextualHints.strings;
 			sourceTree = "<group>";
@@ -23563,6 +23998,10 @@
 				435B20BE2D75C47A00D1CC3A /* es-ES */,
 				434B156F2E4DFBED00CA0EC8 /* ro */,
 				4321E8E02E8559960007800A /* bg */,
+				43713BAF30371BA300F03094 /* ar */,
+				4348B62230371DAA007F625D /* km */,
+				43383A7330371F0100881F38 /* sr */,
+				43A9DC3F30371F210057A767 /* te */,
 			);
 			name = CredentialProvider.strings;
 			sourceTree = "<group>";
@@ -23638,6 +24077,9 @@
 				435B20BF2D75C47A00D1CC3A /* es-ES */,
 				434B15702E4DFBED00CA0EC8 /* ro */,
 				4321E8E12E8559960007800A /* bg */,
+				43713BB030371BA300F03094 /* ar */,
+				4348B62330371DAA007F625D /* km */,
+				43383A7430371F0100881F38 /* sr */,
 			);
 			name = Credentials.strings;
 			sourceTree = "<group>";
@@ -23715,6 +24157,9 @@
 				435B20CA2D75C47A00D1CC3A /* es-ES */,
 				434B15792E4DFBED00CA0EC8 /* ro */,
 				4321E8EC2E8559960007800A /* bg */,
+				43713BB830371BA300F03094 /* ar */,
+				4348B62E30371DAA007F625D /* km */,
+				43383A7F30371F0100881F38 /* sr */,
 			);
 			name = FirefoxLogins.strings;
 			sourceTree = "<group>";
@@ -23792,6 +24237,9 @@
 				435B20D12D75C47A00D1CC3A /* es-ES */,
 				434B157F2E4DFBEE00CA0EC8 /* ro */,
 				4321E8F42E8559960007800A /* bg */,
+				43713BC030371BA300F03094 /* ar */,
+				4348B63630371DAA007F625D /* km */,
+				43383A8730371F0100881F38 /* sr */,
 			);
 			name = LoginsHelper.strings;
 			sourceTree = "<group>";
@@ -23869,6 +24317,8 @@
 				434F443A2DC500ED006D718E /* ml */,
 				434B15962E4DFBEE00CA0EC8 /* ro */,
 				4321E9082E8559960007800A /* bg */,
+				4348B65130371DAA007F625D /* km */,
+				43383AA230371F0200881F38 /* sr */,
 			);
 			name = TabToolbar.strings;
 			sourceTree = "<group>";
@@ -23944,6 +24394,9 @@
 				435B20DC2D75C47A00D1CC3A /* es-ES */,
 				434B15882E4DFBEE00CA0EC8 /* ro */,
 				4321E8FB2E8559960007800A /* bg */,
+				4348B64230371DAA007F625D /* km */,
+				433E10F330371DE90044583A /* lv */,
+				43383A9330371F0200881F38 /* sr */,
 			);
 			name = ScanQRCode.strings;
 			sourceTree = "<group>";
@@ -24014,6 +24467,11 @@
 				434B159C2E4DFBEE00CA0EC8 /* ro */,
 				435C27B22E69AC62006B0D62 /* tt */,
 				4321E90E2E8559960007800A /* bg */,
+				4369352030371BC00044770E /* be */,
+				43D0BBAB30371CF800BA47DC /* gd */,
+				4348B65830371DAA007F625D /* km */,
+				43EF13BF30371E8000D10A2C /* pl */,
+				43383AA930371F0200881F38 /* sr */,
 			);
 			name = WebView.strings;
 			sourceTree = "<group>";
@@ -24091,6 +24549,9 @@
 				43E58E672D6C8B9300B07153 /* tg */,
 				435B20D32D75C47A00D1CC3A /* es-ES */,
 				434B15812E4DFBEE00CA0EC8 /* ro */,
+				43713BC230371BA300F03094 /* ar */,
+				4348B63830371DAA007F625D /* km */,
+				43383A8930371F0100881F38 /* sr */,
 			);
 			name = Microsurvey.strings;
 			sourceTree = "<group>";
@@ -24169,6 +24630,9 @@
 				43E58E5F2D6C8B9200B07153 /* tg */,
 				435B20CB2D75C47A00D1CC3A /* es-ES */,
 				4321E8ED2E8559960007800A /* bg */,
+				43713BB930371BA300F03094 /* ar */,
+				4348B62F30371DAA007F625D /* km */,
+				43383A8030371F0100881F38 /* sr */,
 			);
 			name = FirefoxSync.strings;
 			sourceTree = "<group>";
@@ -24246,6 +24710,9 @@
 				435B20ED2D75C47A00D1CC3A /* es-ES */,
 				434B159B2E4DFBEE00CA0EC8 /* ro */,
 				4321E90D2E8559960007800A /* bg */,
+				43713BD030371BA300F03094 /* ar */,
+				4348B65730371DAA007F625D /* km */,
+				43383AA830371F0200881F38 /* sr */,
 			);
 			name = Upgrade.strings;
 			sourceTree = "<group>";
@@ -24304,6 +24771,15 @@
 				439435DE2EE1A51C00E06580 /* pa-IN */,
 				4312ED942EE1A59300B23388 /* sl */,
 				435B73332EEADFB00045257B /* ml */,
+				43D9B10830371BFF006B8E1C /* ca */,
+				437F0E0930371C8E00EF8E52 /* es */,
+				432D2EDC30371CB50002FBC3 /* es-MX */,
+				43D0BBA330371CF800BA47DC /* gd */,
+				4348B63F30371DAA007F625D /* km */,
+				43EF13B730371E8000D10A2C /* pl */,
+				43C6BBCD30371E9E00DAE29B /* rm */,
+				43383A9030371F0100881F38 /* sr */,
+				43BED68030371F4900173D57 /* tt */,
 			);
 			name = RelayMask.strings;
 			path = "Shared/Supporting Files";
@@ -24382,6 +24858,11 @@
 				435B20C32D75C47A00D1CC3A /* es-ES */,
 				434B15742E4DFBED00CA0EC8 /* ro */,
 				4321E8E52E8559960007800A /* bg */,
+				4369351930371BC00044770E /* be */,
+				4348B62730371DAA007F625D /* km */,
+				433E10EB30371DE90044583A /* lv */,
+				43383A7830371F0100881F38 /* sr */,
+				43A9DC4030371F210057A767 /* te */,
 			);
 			name = EditAddress.strings;
 			sourceTree = "<group>";
@@ -24459,6 +24940,8 @@
 				434F44392DC500ED006D718E /* ml */,
 				434B158C2E4DFBEE00CA0EC8 /* ro */,
 				4321E9002E8559960007800A /* bg */,
+				4348B64830371DAA007F625D /* km */,
+				43383A9930371F0200881F38 /* sr */,
 			);
 			name = Share.strings;
 			sourceTree = "<group>";
@@ -24537,6 +25020,9 @@
 				435B20C12D75C47A00D1CC3A /* es-ES */,
 				434B15722E4DFBED00CA0EC8 /* ro */,
 				4321E8E32E8559960007800A /* bg */,
+				43713BB130371BA300F03094 /* ar */,
+				4348B62530371DAA007F625D /* km */,
+				43383A7630371F0100881F38 /* sr */,
 			);
 			name = DisplayCard.strings;
 			sourceTree = "<group>";
@@ -24614,6 +25100,9 @@
 				435B20DE2D75C47A00D1CC3A /* es-ES */,
 				434B158A2E4DFBEE00CA0EC8 /* ro */,
 				4321E8FD2E8559960007800A /* bg */,
+				43713BC830371BA300F03094 /* ar */,
+				4348B64430371DAA007F625D /* km */,
+				43383A9530371F0200881F38 /* sr */,
 			);
 			name = SearchHeaderTitle.strings;
 			sourceTree = "<group>";
@@ -24690,6 +25179,8 @@
 				43FA93792DC501CB00C93AE8 /* fil */,
 				434B15852E4DFBEE00CA0EC8 /* ro */,
 				4321E8F82E8559960007800A /* bg */,
+				4348B63D30371DAA007F625D /* km */,
+				43383A8E30371F0100881F38 /* sr */,
 			);
 			name = PasswordGenerator.strings;
 			sourceTree = "<group>";
@@ -24750,6 +25241,13 @@
 				431F877C2EB37E680044B503 /* co */,
 				43B896492EB3818B00A77D8F /* sq */,
 				4343A5D52EE1A3E2002FE739 /* hr */,
+				437F0E0B30371C8E00EF8E52 /* es */,
+				432D2EDE30371CB50002FBC3 /* es-MX */,
+				43D0BBA730371CF800BA47DC /* gd */,
+				4348B64D30371DAA007F625D /* km */,
+				43EF13BB30371E8000D10A2C /* pl */,
+				43F1B98E30371EF000782D4D /* sl */,
+				43383A9E30371F0200881F38 /* sr */,
 			);
 			name = Summarize.strings;
 			sourceTree = "<group>";
@@ -24813,6 +25311,13 @@
 				43B8964B2EB3818B00A77D8F /* sq */,
 				43E3BAB72EE1A31D00DBBCB9 /* en-CA */,
 				4343A5D72EE1A3E2002FE739 /* hr */,
+				437F0E0D30371C8E00EF8E52 /* es */,
+				432D2EE030371CB50002FBC3 /* es-MX */,
+				43D0BBA930371CF800BA47DC /* gd */,
+				4348B65230371DAA007F625D /* km */,
+				43EF13BD30371E8000D10A2C /* pl */,
+				43383AA330371F0200881F38 /* sr */,
+				43BED68330371F4900173D57 /* tt */,
 			);
 			name = TermsOfUse.strings;
 			sourceTree = "<group>";
@@ -24888,6 +25393,8 @@
 				435B20EA2D75C47A00D1CC3A /* es-ES */,
 				434B15982E4DFBEE00CA0EC8 /* ro */,
 				4321E90A2E8559960007800A /* bg */,
+				4348B65330371DAA007F625D /* km */,
+				43383AA430371F0200881F38 /* sr */,
 			);
 			name = Toolbar.strings;
 			sourceTree = "<group>";
@@ -24949,6 +25456,16 @@
 				431DC2A22EBCBA3100448696 /* is */,
 				43E3BAB82EE1A31D00DBBCB9 /* en-CA */,
 				4343A5D82EE1A3E2002FE739 /* hr */,
+				4369351F30371BC00044770E /* be */,
+				437F0E0E30371C8E00EF8E52 /* es */,
+				432D2EE130371CB50002FBC3 /* es-MX */,
+				43D0BBAA30371CF800BA47DC /* gd */,
+				4348B65530371DAA007F625D /* km */,
+				433E10F730371DE90044583A /* lv */,
+				43EF13BE30371E8000D10A2C /* pl */,
+				43C6BBCF30371E9E00DAE29B /* rm */,
+				43383AA630371F0200881F38 /* sr */,
+				43BED68430371F4900173D57 /* tt */,
 			);
 			name = Translations.strings;
 			path = "Shared/Supporting Files";
@@ -25028,6 +25545,8 @@
 				435B20C02D75C47A00D1CC3A /* es-ES */,
 				434B15712E4DFBED00CA0EC8 /* ro */,
 				4321E8E22E8559960007800A /* bg */,
+				4348B62430371DAA007F625D /* km */,
+				43383A7530371F0100881F38 /* sr */,
 			);
 			name = CustomizeFirefoxHome.strings;
 			sourceTree = "<group>";
@@ -25106,6 +25625,10 @@
 				435B20B62D75C47A00D1CC3A /* es-ES */,
 				434B15672E4DFBED00CA0EC8 /* ro */,
 				4321E8D92E8559960007800A /* bg */,
+				43713BA930371BA300F03094 /* ar */,
+				4348B61B30371DAA007F625D /* km */,
+				43383A6A30371F0100881F38 /* sr */,
+				43A9DC3C30371F210057A767 /* te */,
 			);
 			name = Alert.strings;
 			sourceTree = "<group>";
@@ -25185,6 +25708,10 @@
 				435B20C42D75C47A00D1CC3A /* es-ES */,
 				43FA93782DC501CB00C93AE8 /* fil */,
 				4321E8E62E8559960007800A /* bg */,
+				43713BB330371BA300F03094 /* ar */,
+				4348B62830371DAA007F625D /* km */,
+				433E10EC30371DE90044583A /* lv */,
+				43383A7930371F0100881F38 /* sr */,
 			);
 			name = EditCard.strings;
 			sourceTree = "<group>";
@@ -25264,6 +25791,10 @@
 				435B20E02D75C47A00D1CC3A /* es-ES */,
 				43FA937A2DC501CB00C93AE8 /* fil */,
 				4321E8FF2E8559960007800A /* bg */,
+				43713BCA30371BA300F03094 /* ar */,
+				4348B64730371DAA007F625D /* km */,
+				433E10F530371DE90044583A /* lv */,
+				43383A9830371F0200881F38 /* sr */,
 			);
 			name = Settings.strings;
 			sourceTree = "<group>";
@@ -25341,6 +25872,9 @@
 				43934AFD2DC5009B00309EA6 /* id */,
 				434B158E2E4DFBEE00CA0EC8 /* ro */,
 				4321E9012E8559960007800A /* bg */,
+				43713BCB30371BA300F03094 /* ar */,
+				4348B64930371DAA007F625D /* km */,
+				43383A9A30371F0200881F38 /* sr */,
 			);
 			name = SnackBar.strings;
 			sourceTree = "<group>";
@@ -25523,6 +26057,7 @@
 				43E58E382D6C8B9200B07153 /* tg */,
 				435B20A42D75C47A00D1CC3A /* es-ES */,
 				433D74EC2D75C5FE003D5A32 /* tzm */,
+				43383A5830371F0100881F38 /* sr */,
 			);
 			name = ClearHistoryConfirm.strings;
 			sourceTree = "<group>";
@@ -25631,6 +26166,7 @@
 				43E58E362D6C8B9200B07153 /* tg */,
 				435B20A22D75C47A00D1CC3A /* es-ES */,
 				433D74EB2D75C5FE003D5A32 /* tzm */,
+				43383A5630371F0100881F38 /* sr */,
 			);
 			name = 3DTouchActions.strings;
 			sourceTree = "<group>";
@@ -25739,6 +26275,7 @@
 				43E58E392D6C8B9200B07153 /* tg */,
 				435B20A52D75C47A00D1CC3A /* es-ES */,
 				433D74ED2D75C5FE003D5A32 /* tzm */,
+				43383A5930371F0100881F38 /* sr */,
 			);
 			name = ClearPrivateData.strings;
 			sourceTree = "<group>";
@@ -25848,6 +26385,7 @@
 				43E58E3E2D6C8B9200B07153 /* tg */,
 				435B20AA2D75C47A00D1CC3A /* es-ES */,
 				433D74F02D75C5FE003D5A32 /* tzm */,
+				43383A5E30371F0100881F38 /* sr */,
 			);
 			name = HistoryPanel.strings;
 			sourceTree = "<group>";
@@ -25957,6 +26495,7 @@
 				43E58E402D6C8B9200B07153 /* tg */,
 				435B20AC2D75C47A00D1CC3A /* es-ES */,
 				433D74F22D75C5FE003D5A32 /* tzm */,
+				43383A6030371F0100881F38 /* sr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -26067,6 +26606,7 @@
 				435B20A12D75C47A00D1CC3A /* es-ES */,
 				433D74EA2D75C5FE003D5A32 /* tzm */,
 				439CCBA52DC5011A00478913 /* ny */,
+				43383A5430371F0100881F38 /* sr */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -26173,6 +26713,7 @@
 				4385A41B2D1980C90003475A /* scn */,
 				43E58E432D6C8B9200B07153 /* tg */,
 				435B20AF2D75C47A00D1CC3A /* es-ES */,
+				43383A6330371F0100881F38 /* sr */,
 			);
 			name = PrivateBrowsing.strings;
 			sourceTree = "<group>";
@@ -26280,6 +26821,7 @@
 				4385A4142D1980C90003475A /* scn */,
 				43E58E3C2D6C8B9200B07153 /* tg */,
 				435B20A82D75C47A00D1CC3A /* es-ES */,
+				43383A5C30371F0100881F38 /* sr */,
 			);
 			name = ErrorPages.strings;
 			sourceTree = "<group>";
@@ -26386,6 +26928,7 @@
 				4385A41E2D1980C90003475A /* scn */,
 				43E58E462D6C8B9200B07153 /* tg */,
 				435B20B22D75C47A00D1CC3A /* es-ES */,
+				43383A6630371F0100881F38 /* sr */,
 			);
 			name = Storage.strings;
 			sourceTree = "<group>";
@@ -26484,6 +27027,7 @@
 				4385A4132D1980C90003475A /* scn */,
 				43E58E3B2D6C8B9200B07153 /* tg */,
 				435B20A72D75C47A00D1CC3A /* es-ES */,
+				43383A5B30371F0100881F38 /* sr */,
 			);
 			name = "Default Browser.strings";
 			sourceTree = "<group>";
@@ -26591,6 +27135,7 @@
 				43E58E3F2D6C8B9200B07153 /* tg */,
 				435B20AB2D75C47A00D1CC3A /* es-ES */,
 				433D74F12D75C5FE003D5A32 /* tzm */,
+				43383A5F30371F0100881F38 /* sr */,
 			);
 			name = Intro.strings;
 			sourceTree = "<group>";
@@ -26700,6 +27245,7 @@
 				43E58E412D6C8B9200B07153 /* tg */,
 				435B20AD2D75C47A00D1CC3A /* es-ES */,
 				433D74F32D75C5FE003D5A32 /* tzm */,
+				43383A6130371F0100881F38 /* sr */,
 			);
 			name = LoginManager.strings;
 			sourceTree = "<group>";
@@ -26806,6 +27352,7 @@
 				4385A41C2D1980C90003475A /* scn */,
 				43E58E442D6C8B9200B07153 /* tg */,
 				435B20B02D75C47A00D1CC3A /* es-ES */,
+				43383A6430371F0100881F38 /* sr */,
 			);
 			name = Search.strings;
 			sourceTree = "<group>";
@@ -26914,6 +27461,7 @@
 				43E58E3D2D6C8B9200B07153 /* tg */,
 				435B20A92D75C47A00D1CC3A /* es-ES */,
 				433D74EF2D75C5FE003D5A32 /* tzm */,
+				43383A5D30371F0100881F38 /* sr */,
 			);
 			name = FindInPage.strings;
 			sourceTree = "<group>";
@@ -27022,6 +27570,7 @@
 				43E58E4D2D6C8B9200B07153 /* tg */,
 				435B20B92D75C47A00D1CC3A /* es-ES */,
 				433D74F52D75C5FE003D5A32 /* tzm */,
+				43383A6E30371F0100881F38 /* sr */,
 			);
 			name = BookmarkPanel.strings;
 			sourceTree = "<group>";
@@ -27108,6 +27657,8 @@
 				435B20F12D75C47A00D1CC3A /* es-ES */,
 				434B159E2E4DFBEE00CA0EC8 /* ro */,
 				4321E9102E8559960007800A /* bg */,
+				4348B65A30371DAA007F625D /* km */,
+				43383AAC30371F0200881F38 /* sr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -27198,6 +27749,8 @@
 				433D74F62D75C5FE003D5A32 /* tzm */,
 				434B156B2E4DFBED00CA0EC8 /* ro */,
 				4321E8DD2E8559960007800A /* bg */,
+				433E10EA30371DE90044583A /* lv */,
+				43383A6F30371F0100881F38 /* sr */,
 			);
 			name = BookmarkPanelDeleteConfirm.strings;
 			sourceTree = "<group>";
@@ -27308,6 +27861,7 @@
 				435B20F02D75C47A00D1CC3A /* es-ES */,
 				433D74F72D75C5FE003D5A32 /* tzm */,
 				43B5E7C92DB65F11000C52AD /* ny */,
+				43383AAB30371F0200881F38 /* sr */,
 			);
 			name = WidgetIntents.intentdefinition;
 			sourceTree = "<group>";
@@ -27417,6 +27971,7 @@
 				43E58E3A2D6C8B9200B07153 /* tg */,
 				435B20A62D75C47A00D1CC3A /* es-ES */,
 				433D74EE2D75C5FE003D5A32 /* tzm */,
+				43383A5A30371F0100881F38 /* sr */,
 			);
 			name = ClearPrivateDataConfirm.strings;
 			sourceTree = "<group>";
